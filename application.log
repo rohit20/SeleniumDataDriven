@@ -1,0 +1,14 @@
+2021-03-26 15:14:19,801  INFO [main] HomeTest:43 - VerifyingTitle
+2021-03-26 15:14:23,559  INFO [main] HomeTest:58 - Clicking SignIN
+2021-03-26 15:14:23,595  INFO [main] HomeTest:60 - verify loginis displayed
+2021-03-26 15:14:24,457  INFO [main] HomeTest:62 - Click  New Account
+2021-03-26 15:14:25,306 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-03-26 15:14:25,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-03-26 15:14:25,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-03-26 15:14:25,309 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-03-26 15:14:25,309 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/rohitwadhwa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-03-26 15:14:25,486 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-03-26 15:14:25,487 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2021-03-26 15:14:25,487 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-03-26 15:14:25,487 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-03-26 15:14:25,488 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/Users/rohitwadhwa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

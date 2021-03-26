@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="AmazonTestSUite" verbose="1" >
+<listeners>
+	<listener class-name = "com.amazon.qa.listeners.ExtentListener"/>
+</listeners>
+  <test name="Practise" >
+    <classes>
+       <class name="com.amazon.qa.testcases.HomeTest"/>
+    </classes>
+  </test>
+</suite>
